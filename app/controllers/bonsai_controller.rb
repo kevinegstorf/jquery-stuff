@@ -1,0 +1,2 @@
+class BonsaiController < ApplicationController
+end
